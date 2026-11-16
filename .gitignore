@@ -1,0 +1,6 @@
+__pycache__/
+/data/
+/preference_data/
+/results/
+/analysis/
+/metrics.csv
